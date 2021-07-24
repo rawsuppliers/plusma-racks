@@ -3,11 +3,11 @@
 Compatabile with Ableton Live Suite 11.
 
 
-## Snare, Kick, Hihat and Rim Maker
+## Drum Maker
+### Snare, Kick, Hihat, Shaker and Rim
 
-Make drumsounds by turning the Macros controlling Operators or Wavetables and some effects. 
+Drumsounds made with Operators, Wavetables and some effects. Can be controlled via Macros. 
 
-
-You can also use the random function of the Instrument Rack to randomize a drumsound.
+Randomize Drumsounds by clicking the Radomize button of the Instrument Rack. 
 
 In Instrument Rack Snapshots i saved some Presets. 
