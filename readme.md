@@ -4,7 +4,7 @@ Compatabile with Ableton Live Suite 11.
 
 
 ## Drum Maker
-### Snare, Kick, Hihat, Shaker and Rim
+#### Snare, Kick, Hihat, Shaker and Rim
 
 Drumsounds made with Operators, Wavetables and some effects. Can be controlled via Macros. 
 
