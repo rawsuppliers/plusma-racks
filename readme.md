@@ -10,4 +10,4 @@ Drumsounds made with Operators, Wavetables and some effects. Can be controlled v
 
 Randomize Drumsounds by clicking the Radomize button of the Instrument Rack. 
 
-In Instrument Rack Snapshots i saved some Presets. 
+In Instrument Rack Snapshots some Presets can be found.
