@@ -1,13 +1,13 @@
 # Ableton Live Racks and other Fun Stuff
 
-Compatabile with Ableton Live Suite 11.
+Compatabile with Ableton Live Suite 11 and later.
 
 
 ## Drum Maker
-#### Snare, Kick, Hihat, Shaker, Clap and Rim
+#### Snare, Kick, Hihat, Shaker, Rim and more
 
-Drumsounds made with Operators, Wavetables and some effects. Can be controlled via Macros. 
+Drumsounds made with Operators, Wavetables and effects. Can be controlled via Macros. 
 
-Randomize Drumsounds by clicking the Rand button of the Instrument Rack. 
+Generate a new Drumsounds by clicking the "Rand" button of the Instrument Rack. 
 
 In Instrument Rack Snapshots some Presets can be found.
